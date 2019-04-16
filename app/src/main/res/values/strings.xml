@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="main_activity_title">Movies</string>
+    <string name="details_activity_title">Movie Details</string>
+    <string name="more">More</string>
+    <string name="search">Search</string>
+    <string name="lorem_ipsum">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups,Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockup,Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockup</string>
+    <string name="retry">Retry</string>
+</resources>
