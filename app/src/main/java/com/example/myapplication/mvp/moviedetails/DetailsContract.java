@@ -1,6 +1,8 @@
 package com.example.myapplication.mvp.moviedetails;
 
 
+import android.util.Log;
+
 import com.example.myapplication.model.MoviesDetailResponse;
 import com.example.myapplication.model.MoviesListResponse;
 
@@ -9,7 +11,7 @@ import java.util.List;
 /**
  * Created by Administrator on 3/20/2018.
  */
-public interface DetailsContract {
+public interface DetailsContract{
 
     /*
    View - this defines the methods that the pure views like Activity or Fragments etc will implement.
